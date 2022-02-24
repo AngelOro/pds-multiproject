@@ -1,4 +1,5 @@
 rootProject.name = 'multiproject-pds'
 
-include 'user-service'
 include 'booking-service'
+include 'movie-service'
+include 'user-service'
